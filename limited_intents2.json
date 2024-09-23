@@ -1,0 +1,756 @@
+{
+    "diseases": [
+        {
+            "name": "Arun Kidinrin Onibaje",
+            "symptoms": [
+                "Rir\u1eb9",
+                "wiwu",
+                "iyipada ninu ito"
+            ],
+            "description": "Arun Kidinrin Onibaje",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hypothyroidism",
+            "symptoms": [
+                "Fatigue",
+                "weight gain",
+                "cold intolerance"
+            ],
+            "description": "Hypothyroidism",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hypothyroidism",
+            "symptoms": [
+                "Rir\u1eb9",
+                "iwuwo ere",
+                "aibikita tutu"
+            ],
+            "description": "Hypothyroidism",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "HIV/AIDS",
+            "symptoms": [
+                "Fatigue",
+                "weight loss",
+                "frequent infections"
+            ],
+            "description": "HIV/AIDS",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "HIV/AIDS",
+            "symptoms": [
+                "Ir\u1eb9w\u1eb9si",
+                "pipadanu iwuwo",
+                "aw\u1ecdn akoran loorekoore"
+            ],
+            "description": "HIV/AIDS",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Yersiniosis",
+            "symptoms": [
+                "Fever",
+                "abdominal pain",
+                "diarrhea (often bloody)",
+                "joint pain"
+            ],
+            "description": "Yersiniosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Yersiniosis",
+            "symptoms": [
+                "Iba",
+                "irora inu",
+                "gbuuru (nigbagbogbo \u1eb9j\u1eb9)",
+                "irora apap\u1ecd"
+            ],
+            "description": "Yersiniosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Candida auris infection",
+            "symptoms": [
+                "Fever",
+                "chills",
+                "bloodstream infections",
+                "organ dysfunction"
+            ],
+            "description": "Candida auris infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Candida auris ikolu",
+            "symptoms": [
+                "Iba",
+                "otutu",
+                "aw\u1ecdn akoran \u1eb9j\u1eb9",
+                "ai\u1e63i\u1e63\u1eb9 ti ara"
+            ],
+            "description": "Candida auris ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Endocarditis",
+            "symptoms": [
+                "Fever",
+                "chills",
+                "fatigue",
+                "aching joints and muscles",
+                "night sweats",
+                "shortness of breath"
+            ],
+            "description": "Endocarditis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Endocarditis",
+            "symptoms": [
+                "Iba",
+                "otutu",
+                "rir\u1eb9",
+                "aw\u1ecdn is\u1eb9po ati i\u1e63an irora",
+                "lagun al\u1eb9",
+                "kuru mimi"
+            ],
+            "description": "Endocarditis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Psittacosis",
+            "symptoms": [
+                "Fever",
+                "chills",
+                "headache",
+                "muscle aches",
+                "dry cough",
+                "pneumonia"
+            ],
+            "description": "Psittacosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Psittacosis",
+            "symptoms": [
+                "Iba",
+                "otutu",
+                "orififo",
+                "irora i\u1e63an",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3 gb\u00edgb\u1eb9",
+                "pneumonia"
+            ],
+            "description": "Psittacosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Plague",
+            "symptoms": [
+                "Fever",
+                "chills",
+                "headache",
+                "muscle aches",
+                "swollen and painful lymph nodes (buboes)"
+            ],
+            "description": "Plague",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Arun",
+            "symptoms": [
+                "Iba",
+                "otutu",
+                "orififo",
+                "irora i\u1e63an",
+                "wiwu ati irora irora (buboes)"
+            ],
+            "description": "Arun",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Septicemia",
+            "symptoms": [
+                "Fever",
+                "chills",
+                "rapid breathing",
+                "rapid heart rate",
+                "confusion",
+                "disorientation"
+            ],
+            "description": "Septicemia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Septicemia",
+            "symptoms": [
+                "Iba",
+                "otutu",
+                "mimi iyara",
+                "iyara \u1ecdkan",
+                "iporuru",
+                "idamu"
+            ],
+            "description": "Septicemia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Coccidioides infection",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "chest pain",
+                "chills",
+                "night sweats",
+                "fatigue",
+                "joint pain"
+            ],
+            "description": "Coccidioides infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Coccidioides ikolu",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "irora \u00e0y\u00e0",
+                "otutu",
+                "lagun al\u1eb9",
+                "rir\u1eb9",
+                "irora apap\u1ecd"
+            ],
+            "description": "Coccidioides ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Talaromyces marneffei infection",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "fatigue",
+                "weight loss",
+                "skin lesions"
+            ],
+            "description": "Talaromyces marneffei infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Talaromyces marneffei ikolu",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "rir\u1eb9",
+                "\u00e0d\u00e1n\u00f9 l\u00e0\u00ecp\u1eb9",
+                "aw\u1ecdn egbo ara"
+            ],
+            "description": "Talaromyces marneffei ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Penicilliosis",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "fatigue",
+                "weight loss",
+                "skin lesions",
+                "lymph node swelling"
+            ],
+            "description": "Penicilliosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Penicilliosis",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "rir\u1eb9",
+                "\u00e0d\u00e1n\u00f9 l\u00e0\u00ecp\u1eb9",
+                "aw\u1ecdn egbo aw\u1ecd ara",
+                "\u1ecdra-ara wiwu"
+            ],
+            "description": "Penicilliosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Blastomycosis",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "night sweats",
+                "muscle aches",
+                "chest pain",
+                "weight loss"
+            ],
+            "description": "Blastomycosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Blastomycosis",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "lagun al\u1eb9",
+                "irora i\u1e63an",
+                "irora \u00e0y\u00e0",
+                "pipadanu iwuwo"
+            ],
+            "description": "Blastomycosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Coronavirus (including COVID-19)",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "shortness of breath",
+                "fatigue",
+                "muscle aches",
+                "sore throat",
+                "loss of taste or smell"
+            ],
+            "description": "Coronavirus (including COVID-19)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Coronavirus (p\u1eb9lu COVID-19)",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "\u00e8\u00e9m\u00ed k\u00far\u00fa",
+                "rir\u1eb9",
+                "i\u1e63an i\u1e63an",
+                "\u1ecdfun \u1ecdfun",
+                "ipadanu it\u1ecdwo tabi \u00f5r\u00f9n"
+            ],
+            "description": "Coronavirus (p\u1eb9lu COVID-19)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Henipavirus (Hendra virus)",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "sore throat",
+                "encephalitis",
+                "seizures",
+                "coma"
+            ],
+            "description": "Henipavirus (Hendra virus)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Henipavirus (f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Hendra)",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "\u1ecdfun \u1ecdfun",
+                "encephalitis",
+                "imulojiji",
+                "coma"
+            ],
+            "description": "Henipavirus (f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Hendra)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Human Metapneumovirus Infection",
+            "symptoms": [
+                "Fever",
+                "cough",
+                "wheezing",
+                "difficulty breathing"
+            ],
+            "description": "Human Metapneumovirus Infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Eniyan Metapneumovirus Ikolu",
+            "symptoms": [
+                "Iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "mimi",
+                "i\u1e63oro mimi"
+            ],
+            "description": "Eniyan Metapneumovirus Ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Pneumocystis pneumonia (PCP)",
+            "symptoms": [
+                "Fever",
+                "dry cough",
+                "shortness of breath",
+                "fatigue"
+            ],
+            "description": "Pneumocystis pneumonia (PCP)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Pneumocystis pneumonia (PCP)",
+            "symptoms": [
+                "\u00ccb\u00e0",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3 gb\u00edgb\u1eb9",
+                "\u00ecm\u00ed kuru",
+                "rir\u1eb9"
+            ],
+            "description": "Pneumocystis pneumonia (PCP)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Heartland Virus",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "decreased appetite",
+                "headache",
+                "nausea"
+            ],
+            "description": "Heartland Virus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Heartland",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "if\u1eb9kuf\u1eb9 dinku",
+                "orififo",
+                "r\u00edru"
+            ],
+            "description": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Heartland",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Severe Fever with Thrombocytopenia",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "gastrointestinal symptoms",
+                "bleeding tendencies"
+            ],
+            "description": "Severe Fever with Thrombocytopenia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Iba nla p\u1eb9lu Thrombocytopenia",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "aw\u1ecdn aami aisan inu ikun",
+                "aw\u1ecdn ifarahan \u1eb9j\u1eb9"
+            ],
+            "description": "Iba nla p\u1eb9lu Thrombocytopenia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Huaiyangshan Banyangvirus",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "gastrointestinal symptoms",
+                "thrombocytopenia"
+            ],
+            "description": "Huaiyangshan Banyangvirus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Huaiyangshan Banyangvirus",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "aw\u1ecdn aami aisan inu ikun",
+                "thrombocytopenia"
+            ],
+            "description": "Huaiyangshan Banyangvirus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Simian Foamy Virus",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "lymphadenopathy",
+                "oral ulcers"
+            ],
+            "description": "Simian Foamy Virus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Simian Foamy",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "lymphadenopathy",
+                "\u1ecdgb\u1eb9 \u1eb9nu"
+            ],
+            "description": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Simian Foamy",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Viral Hemorrhagic Fevers",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "muscle aches",
+                "bleeding"
+            ],
+            "description": "Viral Hemorrhagic Fevers",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Iba \u1eb8j\u1eb9 Agbogun",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "irora i\u1e63an",
+                "\u1eb9j\u1eb9"
+            ],
+            "description": "Iba \u1eb8j\u1eb9 Agbogun",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hantavirus Pulmonary Syndrome",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "muscle aches",
+                "shortness of breath",
+                "cough"
+            ],
+            "description": "Hantavirus Pulmonary Syndrome",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hantavirus Pulmonary Syndrome",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "irora i\u1e63an",
+                "kuru \u1eb9mi",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3"
+            ],
+            "description": "Hantavirus Pulmonary Syndrome",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hepatitis A",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "nausea",
+                "vomiting",
+                "loss of appetite",
+                "abdominal pain",
+                "dark urine",
+                "jaundice"
+            ],
+            "description": "Hepatitis A",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hepatitis A",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "r\u00edru",
+                "\u00ecgbagbogbo",
+                "isonu ti yanilenu",
+                "irora inu",
+                "ito dudu",
+                "jaundice (aw\u1ecd aw\u1ecd ati oju)"
+            ],
+            "description": "Hepatitis A",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Simian Virus 40 (SV40)",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "respiratory symptoms",
+                "potential cancer association"
+            ],
+            "description": "Simian Virus 40 (SV40)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "K\u00f2k\u00f2r\u00f2 \u00e0r\u00f9n f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Simian 40 (SV40)",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "aw\u1ecdn ami at\u1eb9gun",
+                "\u1eb9gb\u1eb9 alakan ti o p\u1ecdju"
+            ],
+            "description": "K\u00f2k\u00f2r\u00f2 \u00e0r\u00f9n f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Simian 40 (SV40)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Mononucleosis (Mono)",
+            "symptoms": [
+                "Fever",
+                "fatigue",
+                "sore throat",
+                "swollen lymph nodes",
+                "rash"
+            ],
+            "description": "Mononucleosis (Mono)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Mononucleosis (Mono)",
+            "symptoms": [
+                "Iba",
+                "rir\u1eb9",
+                "\u1ecdfun \u1ecdfun",
+                "wiwu \u1ecdgb\u1eb9 \u1ecdgb\u1eb9",
+                "oru sisu"
+            ],
+            "description": "Mononucleosis (Mono)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Seoul Virus",
+            "symptoms": [
+                "Fever",
+                "headache",
+                "abdominal pain",
+                "kidney dysfunction"
+            ],
+            "description": "Seoul Virus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Seoul",
+            "symptoms": [
+                "Iba",
+                "orififo",
+                "irora inu",
+                "ailagbara kidinrin"
+            ],
+            "description": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Seoul",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Borna Virus",
+            "symptoms": [
+                "Fever",
+                "headache",
+                "mood changes",
+                "memory disturbances",
+                "muscle stiffness"
+            ],
+            "description": "Borna Virus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Bornavirus",
+            "symptoms": [
+                "Iba",
+                "orififo",
+                "iyipada i\u1e63esi",
+                "idamu iranti",
+                "lile i\u1e63an"
+            ],
+            "description": "f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec Bornavirus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Enterovirus (including polio)",
+            "symptoms": [
+                "Fever",
+                "headache",
+                "muscle aches",
+                "fatigue",
+                "nausea",
+                "vomiting",
+                "diarrhea",
+                "in severe cases paralysis (polio)"
+            ],
+            "description": "Enterovirus (including polio)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Enterovirus (p\u1eb9lu roparose)",
+            "symptoms": [
+                "Iba",
+                "orififo",
+                "irora i\u1e63an",
+                "rir\u1eb9",
+                "r\u00edru",
+                "\u00ecgbagbogbo",
+                "igbe gbuuru",
+                "ni aw\u1ecdn i\u1e63\u1eb9l\u1eb9 ti o lewu paralysis (polio)"
+            ],
+            "description": "Enterovirus (p\u1eb9lu roparose)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "West Nile Virus",
+            "symptoms": [
+                "Fever",
+                "headache",
+                "muscle aches",
+                "nausea",
+                "vomiting",
+                "diarrhea",
+                "rash",
+                "in severe cases meningitis",
+                "encephalitis"
+            ],
+            "description": "West Nile Virus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "West Nile f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec",
+            "symptoms": [
+                "Iba",
+                "orififo",
+                "irora i\u1e63an",
+                "r\u00edru",
+                "\u00ecgbagbogbo",
+                "gbuuru",
+                "oru sisu",
+                "ni aw\u1ecdn i\u1e63\u1eb9l\u1eb9 ti o buruju meningitis",
+                "encephalitis"
+            ],
+            "description": "West Nile f\u00e1\u00edr\u1ecd\u0301\u1ecd\u0300s\u00ec",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Mumps",
+            "symptoms": [
+                "Fever",
+                "headache",
+                "muscle aches",
+                "swollen salivary glands (especially parotid glands near the cheeks)"
+            ],
+            "description": "Mumps",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Mumps",
+            "symptoms": [
+                "Iba",
+                "orififo",
+                "irora i\u1e63an",
+                "aw\u1ecdn keekeke salivary w\u00fa (paapaa aw\u1ecdn keekeke ti parotid nitosi aw\u1ecdn \u1eb9r\u1eb9k\u1eb9)"
+            ],
+            "description": "Mumps",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Zika Virus",
+            "symptoms": [
+                "Fever",
+                "headache",
+                "muscle and joint aches",
+                "red eyes",
+                "rash"
+            ],
+            "description": "Zika Virus",
+            "treatment": "Please consult a doctor for treatment options."
+        }
+    ]
+}

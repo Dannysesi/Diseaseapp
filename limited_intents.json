@@ -1,0 +1,685 @@
+{
+    "diseases": [
+        {
+            "name": "Irritable Bowel Syndrome (IBS)",
+            "symptoms": [
+                "Abdominal pain",
+                "bloating",
+                "constipation or diarrhea"
+            ],
+            "description": "Irritable Bowel Syndrome (IBS)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aisan Ifun Irritable (IBS)",
+            "symptoms": [
+                "Inu irora",
+                "bloating",
+                "\u00e0\u00ecr\u00edgb\u1eb9y\u00e0 tabi gbuuru"
+            ],
+            "description": "Aisan Ifun Irritable (IBS)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Celiac Disease",
+            "symptoms": [
+                "Abdominal pain",
+                "bloating",
+                "diarrhea"
+            ],
+            "description": "Celiac Disease",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Celiac Arun",
+            "symptoms": [
+                "Inu irora",
+                "bloating",
+                "gbuuru"
+            ],
+            "description": "Celiac Arun",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Inflammatory Bowel Disease (Crohn's, UC)",
+            "symptoms": [
+                "Abdominal pain",
+                "diarrhea",
+                "weight loss"
+            ],
+            "description": "Inflammatory Bowel Disease (Crohn's, UC)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Arun Ifun Ifun (Crohn's, UC)",
+            "symptoms": [
+                "Inu irora",
+                "gbuuru",
+                "\u00e0d\u00e1n\u00f9 l\u00e0\u00ecp\u1eb9"
+            ],
+            "description": "Arun Ifun Ifun (Crohn's, UC)",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Ankylosing Spondylitis",
+            "symptoms": [
+                "Back pain",
+                "stiffness",
+                "reduced flexibility"
+            ],
+            "description": "Ankylosing Spondylitis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Spondylitis ankylosing",
+            "symptoms": [
+                "Irora af\u1eb9yinti",
+                "lile",
+                "dinku ni ir\u1ecdrun"
+            ],
+            "description": "Spondylitis ankylosing",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Macular Degeneration",
+            "symptoms": [
+                "Blurred or reduced central vision"
+            ],
+            "description": "Macular Degeneration",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Macular degeneration",
+            "symptoms": [
+                "Aif\u1ecdw\u1ecdyi tabi dinku iran aarin"
+            ],
+            "description": "Macular degeneration",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Diabetic Retinopathy",
+            "symptoms": [
+                "Blurred vision",
+                "floaters",
+                "vision loss"
+            ],
+            "description": "Diabetic Retinopathy",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "\u00c0t\u1ecdgb\u1eb9 Retinopathy",
+            "symptoms": [
+                "Oju riran",
+                "aw\u1ecdn floaters",
+                "pipadanu iran"
+            ],
+            "description": "\u00c0t\u1ecdgb\u1eb9 Retinopathy",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Osteoporosis",
+            "symptoms": [
+                "Bone fractures",
+                "back pain",
+                "loss of height"
+            ],
+            "description": "Osteoporosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Osteoporosis",
+            "symptoms": [
+                "Aw\u1ecdn fif\u1ecd egungun",
+                "irora \u1eb9hin",
+                "isonu ti iga"
+            ],
+            "description": "Osteoporosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Cladophialophora bantiana infection",
+            "symptoms": [
+                "Brain abscesses",
+                "skin lesions",
+                "respiratory infections"
+            ],
+            "description": "Cladophialophora bantiana infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Cladophialophora bantiana ikolu",
+            "symptoms": [
+                "Aw\u1ecdn abscesses \u1ecdp\u1ecdl\u1ecd",
+                "aw\u1ecdn \u1ecdgb\u1eb9 ara",
+                "aw\u1ecdn akoran ti at\u1eb9gun"
+            ],
+            "description": "Cladophialophora bantiana ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Lyme Disease",
+            "symptoms": [
+                "Bullseye rash",
+                "fever",
+                "chills",
+                "headache",
+                "fatigue",
+                "muscle and joint aches",
+                "swollen lymph nodes"
+            ],
+            "description": "Lyme Disease",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Arun Lyme",
+            "symptoms": [
+                "\u1eb8\u0300f\u1ecd\u0301r\u00ed",
+                "\u00ecb\u00e0n\u00faj\u1eb9\u0301",
+                "r\u00edr\u1eb9\u0300r\u1eb9\u0300g\u1eb9\u0300jig\u1eb9\u0300",
+                "i\u1e63an ara \u00e0ti \u00ecrora \u00ecsok\u1ecd\u0301ra",
+                "\u00e0w\u1ecdn \u1ecd\u0300r\u00e1 t\u00ed \u00f3 w\u00fa"
+            ],
+            "description": "Arun Lyme",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Colorectal Cancer",
+            "symptoms": [
+                "Changes in bowel habits",
+                "blood in stool",
+                "abdominal discomfort"
+            ],
+            "description": "Colorectal Cancer",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Ak\u00e0n Aw\u1ecd",
+            "symptoms": [
+                "Ayipada ninu ifun isesi",
+                "\u1eb9j\u1eb9 ni otita",
+                "aibal\u1eb9 inu"
+            ],
+            "description": "Ak\u00e0n Aw\u1ecd",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Human Coronavirus OC43",
+            "symptoms": [
+                "Common cold symptoms",
+                "cough",
+                "fever",
+                "nasal congestion"
+            ],
+            "description": "Human Coronavirus OC43",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Coronavirus OC43 ti Eniyan",
+            "symptoms": [
+                "Aw\u1ecdn aami aisan otutu ti o w\u1ecdp\u1ecd",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "iba",
+                "imu imu"
+            ],
+            "description": "Coronavirus OC43 ti Eniyan",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Rotavirus",
+            "symptoms": [
+                "common cold symptoms: runny or stuffy nose",
+                "sneezing",
+                "sore throat",
+                "mild cough"
+            ],
+            "description": "Rotavirus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Rotavirus",
+            "symptoms": [
+                "aw\u1ecdn aami ai\u1e63an otutu ti o w\u1ecdp\u1ecd: imu imu tabi imu imu",
+                "sneezing",
+                "\u1ecdfun \u1ecdfun",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3 \u00ecw\u1ecdnba"
+            ],
+            "description": "Rotavirus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aspergillus clavatus infection",
+            "symptoms": [
+                "Cough",
+                "chest pain",
+                "shortness of breath",
+                "fever"
+            ],
+            "description": "Aspergillus clavatus infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aspergillus clavatus ikolu",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "irora \u00e0y\u00e0",
+                "\u00e0\u00ect\u00f3 \u00ecm\u00ed",
+                "ib\u00e0"
+            ],
+            "description": "Aspergillus clavatus ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aspergillus fumigatus infection",
+            "symptoms": [
+                "Cough",
+                "chest pain",
+                "shortness of breath",
+                "fever",
+                "sinusitis"
+            ],
+            "description": "Aspergillus fumigatus infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aspergillus fumigatus ikolu",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "\u00e0y\u00e0 irora",
+                "kukuru \u00ecm\u00ed",
+                "iba",
+                "sinusitis"
+            ],
+            "description": "Aspergillus fumigatus ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aspergillosis",
+            "symptoms": [
+                "Cough",
+                "chest pain",
+                "shortness of breath",
+                "fever",
+                "wheezing",
+                "sinus infections"
+            ],
+            "description": "Aspergillosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aspergillosis",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "\u00e0y\u00e0 irora",
+                "kukuru \u00ecm\u00ed",
+                "iba",
+                "mimi",
+                "\u00e0k\u00f3r\u00e0n sinus"
+            ],
+            "description": "Aspergillosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Pneumonia",
+            "symptoms": [
+                "Cough",
+                "fever",
+                "chills",
+                "shortness of breath",
+                "chest pain",
+                "fatigue",
+                "nausea",
+                "vomiting",
+                "confusion"
+            ],
+            "description": "Pneumonia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "\u00c0\u00ecs\u00e0n \u00f2t\u00fat\u00f9 \u00e0y\u00e0",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "iba",
+                "otutu",
+                "mimi kuru",
+                "irora \u00e0y\u00e0",
+                "rir\u1eb9",
+                "r\u00edru \u00ecgbagbogbo",
+                "iporuru"
+            ],
+            "description": "\u00c0\u00ecs\u00e0n \u00f2t\u00fat\u00f9 \u00e0y\u00e0",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Legionnaires\u2019 disease",
+            "symptoms": [
+                "Cough",
+                "shortness of breath",
+                "high fever",
+                "muscle aches",
+                "headaches",
+                "chills",
+                "confusion",
+                "diarrhea"
+            ],
+            "description": "Legionnaires\u2019 disease",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Arun Legionnaires",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "\u00ecm\u00ed kuru",
+                "ib\u00e0 giga",
+                "irora i\u1e63an",
+                "orififo",
+                "otutu",
+                "idamu",
+                "gbuuru"
+            ],
+            "description": "Arun Legionnaires",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Stachybotrys chartarum infection",
+            "symptoms": [
+                "Cough",
+                "wheezing",
+                "chest tightness",
+                "eye irritation",
+                "skin rash"
+            ],
+            "description": "Stachybotrys chartarum infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Stachybotrys chartarum ikolu",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "mimi",
+                "wiw\u1ecd \u00e0y\u00e0",
+                "irritation oju",
+                "aw\u1ecd ara"
+            ],
+            "description": "Stachybotrys chartarum ikolu",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Respiratory Syncytial Virus (RSV) Bronchiolitis",
+            "symptoms": [
+                "Cough",
+                "wheezing",
+                "difficulty breathing"
+            ],
+            "description": "Respiratory Syncytial Virus (RSV) Bronchiolitis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Kokoro amu\u1e63i\u1e63\u1eb9p\u1ecd ti at\u1eb9gun (RSV) Bronchiolitis",
+            "symptoms": [
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "mimi",
+                "i\u1e63oro mimi"
+            ],
+            "description": "Kokoro amu\u1e63i\u1e63\u1eb9p\u1ecd ti at\u1eb9gun (RSV) Bronchiolitis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Anthrax",
+            "symptoms": [
+                "Cutaneous: sores",
+                "swelling; Inhalational: fever",
+                "cough",
+                "chest discomfort; Gastrointestinal: nausea",
+                "vomiting",
+                "abdominal pain"
+            ],
+            "description": "Anthrax",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Anthrax",
+            "symptoms": [
+                "Cutaneous: egb\u00f2",
+                "wiwu; Inhalational: iba",
+                "Ik\u1ecd al\u00e1\u00ecd\u00far\u00f3",
+                "aibal\u1eb9 \u00e0y\u00e0; Ifun inu: r\u00edru",
+                "\u00ecgbagbogbo",
+                "irora inu"
+            ],
+            "description": "Anthrax",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Campylobacteriosis",
+            "symptoms": [
+                "Diarrhea (often bloody)",
+                "fever",
+                "abdominal cramps",
+                "nausea",
+                "vomiting",
+                "fatigue"
+            ],
+            "description": "Campylobacteriosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Campylobacteriosis",
+            "symptoms": [
+                "\u00ccgb\u1eb9\u0301 gbuuru (\u1ecd\u0300p\u1ecd\u0300 \u1eb9\u0300j\u1eb9\u0300 l\u1ecd\u0301p\u1ecd\u0300l\u1ecdp\u1ecd\u0300)",
+                "ib\u00e0",
+                "\u00ecr\u00edra \u00ecgbagbogbo",
+                "\u00e0\u00e1r\u1eb9\u0300"
+            ],
+            "description": "Campylobacteriosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Salmonellosis",
+            "symptoms": [
+                "Diarrhea",
+                "fever",
+                "abdominal cramps",
+                "nausea",
+                "vomiting",
+                "headache"
+            ],
+            "description": "Salmonellosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Salmonellosis",
+            "symptoms": [
+                "\u00ccgb\u1eb9\u0301 gbuuru",
+                "ib\u00e0",
+                "\u00ecr\u00edra \u00ecgbagbogbo",
+                "\u1eb9\u0300f\u1ecd\u0301r\u00ed"
+            ],
+            "description": "Salmonellosis",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Astrovirus Infection",
+            "symptoms": [
+                "Diarrhea",
+                "nausea",
+                "vomiting"
+            ],
+            "description": "Astrovirus Infection",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Ikolu Astrovirus",
+            "symptoms": [
+                "\u00ccgb\u1eb9\u0301",
+                "\u00ecr\u00edra",
+                "\u00ecgbagbogbo"
+            ],
+            "description": "Ikolu Astrovirus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Prostate Cancer",
+            "symptoms": [
+                "Difficulty urinating",
+                "pelvic pain",
+                "blood in urine"
+            ],
+            "description": "Prostate Cancer",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Prostate ak\u00e0n",
+            "symptoms": [
+                "I\u1e63oro ito",
+                "irora ibadi",
+                "\u1eb9j\u1eb9 ninu ito"
+            ],
+            "description": "Prostate ak\u00e0n",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Generalized Anxiety Disorder",
+            "symptoms": [
+                "Excessive worry",
+                "restlessness",
+                "irritability"
+            ],
+            "description": "Generalized Anxiety Disorder",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Ibanuj\u1eb9 Ibanuj\u1eb9 Akop\u1ecd",
+            "symptoms": [
+                "\u00c0n\u00edy\u00e0n p\u00fap\u1ecd\u0300",
+                "\u00e0\u00ecn\u00edsinmi",
+                "\u00ecb\u00edn\u00fa"
+            ],
+            "description": "Ibanuj\u1eb9 Ibanuj\u1eb9 Akop\u1ecd",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Trachoma",
+            "symptoms": [
+                "Eye discharge",
+                "eye pain",
+                "swollen eyelids",
+                "trichiasis (inward growing eyelashes)",
+                "vision loss"
+            ],
+            "description": "Trachoma",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Trachoma",
+            "symptoms": [
+                "Sis\u1ecdjade oju",
+                "irora oju",
+                "aw\u1ecdn ipenpeju wiwu",
+                "trichiasis (aw\u1ecdn ipenpeju ti o dagba ninu)",
+                "pipadanu iran"
+            ],
+            "description": "Trachoma",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Rosacea",
+            "symptoms": [
+                "Facial redness",
+                "visible blood vessels",
+                "bumps"
+            ],
+            "description": "Rosacea",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Rosacea",
+            "symptoms": [
+                "Pupa oju",
+                "aw\u1ecdn ohun elo \u1eb9j\u1eb9 ti o han",
+                "aw\u1ecdn bumps"
+            ],
+            "description": "Rosacea",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Fatty Liver Disease",
+            "symptoms": [
+                "Fatigue",
+                "abdominal discomfort",
+                "elevated liver enzymes"
+            ],
+            "description": "Fatty Liver Disease",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Arun \u1eb8d\u1ecd \u1eccra",
+            "symptoms": [
+                "Rir\u1eb9",
+                "aibal\u1eb9 inu",
+                "aw\u1ecdn enzymu \u1eb9d\u1ecd ti o ga"
+            ],
+            "description": "Arun \u1eb8d\u1ecd \u1eccra",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Leukemia",
+            "symptoms": [
+                "Fatigue",
+                "frequent infections",
+                "easy bruising"
+            ],
+            "description": "Leukemia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Aisan lukimia",
+            "symptoms": [
+                "Rir\u1eb9",
+                "aw\u1ecdn akoran loorekoore",
+                "\u1ecdgb\u1eb9 ir\u1ecdrun"
+            ],
+            "description": "Aisan lukimia",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Chronic Hepatitis B and C",
+            "symptoms": [
+                "Fatigue",
+                "jaundice",
+                "abdominal pain"
+            ],
+            "description": "Chronic Hepatitis B and C",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Hepatitis onibaje B ati C",
+            "symptoms": [
+                "Rir\u1eb9",
+                "jaundice",
+                "irora inu"
+            ],
+            "description": "Hepatitis onibaje B ati C",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Lupus",
+            "symptoms": [
+                "Fatigue",
+                "joint pain",
+                "skin rashes"
+            ],
+            "description": "Lupus",
+            "treatment": "Please consult a doctor for treatment options."
+        },
+        {
+            "name": "Lupus",
+            "symptoms": [
+                "Rir\u1eb9",
+                "irora apap\u1ecd",
+                "aw\u1ecdn aw\u1ecd ara"
+            ],
+            "description": "Lupus",
+            "treatment": "Please consult a doctor for treatment options."
+        }
+    ]
+}
