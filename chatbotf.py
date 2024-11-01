@@ -7,8 +7,8 @@ from typing import Optional
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "a2274e04-730a-4a04-ad69-29fb92f0f9a9"
 FLOW_ID = "bce533cd-ac79-4ecc-b243-86547bde2092"
-APPLICATION_TOKEN = "AstraCS:tGdXQoUyXAslpoFnaEuQvXnS:b56ab98a9b6ebf4cb7909738bab9fbeafeddf6edf0cd97971b146ce6508a4362"
-ENDPOINT = "LeinadFlow"
+APPLICATION_TOKEN = "AstraCS:REzxXrDdvZXwAnLivsFzbdgy:93c5b50edc504810fb0e45cf45680eb6833c3377da3b0e0d68e9b946bdff1198"
+ENDPOINT = "LeinadFlow-1"
 TWEAKS = {
     "ChatInput-meGB1": {},
     "ChatOutput-zJKHi": {},
