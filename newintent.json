@@ -1,0 +1,646 @@
+{
+    "intents": [
+        {
+            "tag": "Irritable Bowel Syndrome (IBS)",
+            "patterns": [
+                "Abdominal pain",
+                "bloating",
+                "constipation or diarrhea"
+            ],
+            "treatment_plan": [
+                "Dietary changes (low FODMAP diet), fiber supplements, antispasmodic medications, probiotics, stress management."
+            ]
+        },
+        {
+            "tag": "Celiac Disease",
+            "patterns": [
+                "Abdominal pain",
+                "bloating",
+                "diarrhea"
+            ],
+            "treatment_plan": [
+                "Strict gluten-free diet, nutritional supplements if deficiencies are present."
+            ]
+        },
+        {
+            "tag": "Inflammatory Bowel Disease (Crohn's, UC)",
+            "patterns": [
+                "Abdominal pain",
+                "diarrhea",
+                "weight loss"
+            ],
+            "treatment_plan": [
+                "Anti-inflammatory medications, immune system suppressors, surgery in severe cases, diet management."
+            ]
+        },
+        {
+            "tag": "Ankylosing Spondylitis",
+            "patterns": [
+                "Back pain",
+                "stiffness",
+                "reduced flexibility"
+            ],
+            "treatment_plan": [
+                "Nonsteroidal anti-inflammatory drugs (NSAIDs), physical therapy, biologics (e.g., TNF blockers)."
+            ]
+        },
+        {
+            "tag": "Macular Degeneration",
+            "patterns": [
+                "Blurred or reduced central vision"
+            ],
+            "treatment_plan": [
+                "Anti-VEGF injections, photodynamic therapy, lifestyle changes (no smoking, eye protection)."
+            ]
+        },
+        {
+            "tag": "Diabetic Retinopathy",
+            "patterns": [
+                "Blurred vision",
+                "floaters",
+                "vision loss"
+            ],
+            "treatment_plan": [
+                "Blood sugar management, laser therapy, anti-VEGF injections."
+            ]
+        },
+        {
+            "tag": "Osteoporosis",
+            "patterns": [
+                "Bone fractures",
+                "back pain",
+                "loss of height"
+            ],
+            "treatment_plan": [
+                "Calcium and vitamin D supplements, bisphosphonates, weight-bearing exercises."
+            ]
+        },
+        {
+            "tag": "Cladophialophora bantiana infection",
+            "patterns": [
+                "Brain abscesses",
+                "skin lesions",
+                "respiratory infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, surgical drainage if abscesses are present, supportive care."
+            ]
+        },
+        {
+            "tag": "Lyme Disease",
+            "patterns": [
+                "Bullseye rash",
+                "fever",
+                "chills",
+                "headache",
+                "fatigue",
+                "muscle and joint aches",
+                "swollen lymph nodes"
+            ],
+            "treatment_plan": [
+                "Antibiotics (doxycycline, amoxicillin), pain management for joint symptoms, supportive care."
+            ]
+        },
+        {
+            "tag": "Colorectal Cancer",
+            "patterns": [
+                "Changes in bowel habits",
+                "blood in stool",
+                "abdominal discomfort"
+            ],
+            "treatment_plan": [
+                "Surgery, chemotherapy, radiation therapy, targeted therapy based on stage and spread."
+            ]
+        },
+        {
+            "tag": "Human Coronavirus OC43",
+            "patterns": [
+                "Common cold symptoms",
+                "cough",
+                "fever",
+                "nasal congestion"
+            ],
+            "treatment_plan": [
+                "Supportive care (rest, fluids), pain relievers, decongestants."
+            ]
+        },
+        {
+            "tag": "Rotavirus",
+            "patterns": [
+                "common cold symptoms: runny or stuffy nose",
+                "sneezing",
+                "sore throat",
+                "mild cough"
+            ],
+            "treatment_plan": [
+                "Oral rehydration solutions for dehydration, supportive care, rotavirus vaccine for prevention."
+            ]
+        },
+        {
+            "tag": "Aspergillus clavatus infection",
+            "patterns": [
+                "Cough",
+                "chest pain",
+                "shortness of breath",
+                "fever"
+            ],
+            "treatment_plan": [
+                "Antifungal medications (voriconazole, amphotericin B), supportive care for respiratory symptoms."
+            ]
+        },
+        {
+            "tag": "Aspergillus fumigatus infection",
+            "patterns": [
+                "Cough",
+                "chest pain",
+                "shortness of breath",
+                "fever",
+                "sinusitis"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, possibly surgery in severe cases, immune system support."
+            ]
+        },
+        {
+            "tag": "Aspergillosis",
+            "patterns": [
+                "Cough",
+                "chest pain",
+                "shortness of breath",
+                "fever",
+                "wheezing",
+                "sinus infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, surgical removal of fungal mass if needed."
+            ]
+        },
+        {
+            "tag": "Pneumonia",
+            "patterns": [
+                "Cough",
+                "fever",
+                "chills",
+                "shortness of breath",
+                "chest pain",
+                "fatigue",
+                "nausea",
+                "vomiting",
+                "confusion"
+            ],
+            "treatment_plan": [
+                "Antibiotics (bacterial cause), antiviral medication (if viral), supportive care, oxygen therapy."
+            ]
+        },
+        {
+            "tag": "Legionnaires’ disease",
+            "patterns": [
+                "Cough",
+                "shortness of breath",
+                "high fever",
+                "muscle aches",
+                "headaches",
+                "chills",
+                "confusion",
+                "diarrhea"
+            ],
+            "treatment_plan": [
+                "Antibiotics (levofloxacin, azithromycin), supportive care, possibly hospitalization."
+            ]
+        },
+        {
+            "tag": "Stachybotrys chartarum infection",
+            "patterns": [
+                "Cough",
+                "wheezing",
+                "chest tightness",
+                "eye irritation",
+                "skin rash"
+            ],
+            "treatment_plan": [
+                "Removal from exposure, corticosteroids for respiratory symptoms, antihistamines."
+            ]
+        },
+        {
+            "tag": "Respiratory Syncytial Virus (RSV) Bronchiolitis",
+            "patterns": [
+                "Cough",
+                "wheezing",
+                "difficulty breathing"
+            ],
+            "treatment_plan": [
+                "Supportive care (hydration, oxygen therapy), bronchodilators in some cases, antiviral medication in high-risk patients."
+            ]
+        },
+        {
+            "tag": "Anthrax",
+            "patterns": [
+                "Cutaneous: sores",
+                "swelling; Inhalational: fever",
+                "cough",
+                "chest discomfort; Gastrointestinal: nausea",
+                "vomiting",
+                "abdominal pain"
+            ],
+            "treatment_plan": [
+                "Antibiotics (ciprofloxacin, doxycycline), antitoxin therapy, hospitalization for severe cases."
+            ]
+        },
+        {
+            "tag": "Campylobacteriosis",
+            "patterns": [
+                "Diarrhea (often bloody)",
+                "fever",
+                "abdominal cramps",
+                "nausea",
+                "vomiting",
+                "fatigue"
+            ],
+            "treatment_plan": [
+                "Rehydration therapy, antibiotics in severe cases (azithromycin)."
+            ]
+        },
+        {
+            "tag": "Salmonellosis",
+            "patterns": [
+                "Diarrhea",
+                "fever",
+                "abdominal cramps",
+                "nausea",
+                "vomiting",
+                "headache"
+            ],
+            "treatment_plan": [
+                "Supportive care, rehydration, antibiotics only in severe or vulnerable patients."
+            ]
+        },
+        {
+            "tag": "Astrovirus Infection",
+            "patterns": [
+                "Diarrhea",
+                "nausea",
+                "vomiting"
+            ],
+            "treatment_plan": [
+                "Rehydration therapy, supportive care."
+            ]
+        },
+        {
+            "tag": "Prostate Cancer",
+            "patterns": [
+                "Difficulty urinating",
+                "pelvic pain",
+                "blood in urine"
+            ],
+            "treatment_plan": [
+                "Surgery, radiation therapy, hormone therapy, chemotherapy."
+            ]
+        },
+        {
+            "tag": "Generalized Anxiety Disorder",
+            "patterns": [
+                "Excessive worry",
+                "restlessness",
+                "irritability"
+            ],
+            "treatment_plan": [
+                "Cognitive-behavioral therapy, selective serotonin reuptake inhibitors (SSRIs), lifestyle changes."
+            ]
+        },
+        {
+            "tag": "Trachoma",
+            "patterns": [
+                "Eye discharge",
+                "eye pain",
+                "swollen eyelids",
+                "trichiasis (inward growing eyelashes)",
+                "vision loss"
+            ],
+            "treatment_plan": [
+                "Antibiotics (azithromycin), surgery to correct trichiasis, improved hygiene."
+            ]
+        },
+        {
+            "tag": "Rosacea",
+            "patterns": [
+                "Facial redness",
+                "visible blood vessels",
+                "bumps"
+            ],
+            "treatment_plan": [
+                "Topical antibiotics, avoiding triggers, laser therapy."
+            ]
+        },
+        {
+            "tag": "Fatty Liver Disease",
+            "patterns": [
+                "Fatigue",
+                "abdominal discomfort",
+                "elevated liver enzymes"
+            ],
+            "treatment_plan": [
+                "Lifestyle changes (weight loss, reduced alcohol intake), management of related conditions."
+            ]
+        },
+        {
+            "tag": "Leukemia",
+            "patterns": [
+                "Fatigue",
+                "frequent infections",
+                "easy bruising"
+            ],
+            "treatment_plan": [
+                "Chemotherapy, radiation therapy, bone marrow transplant."
+            ]
+        },
+        {
+            "tag": "Rhinocladiella infection",
+            "patterns": [
+                "Skin lesions",
+                "brain abscesses",
+                "subcutaneous nodules"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, possibly surgery in localized infections."
+            ]
+        },
+        {
+            "tag": "Acremonium strictum infection",
+            "patterns": [
+                "Skin lesions",
+                "eye infections",
+                "pneumonia",
+                "disseminated infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, surgical debridement if necessary."
+            ]
+        },
+        {
+            "tag": "Human Herpesvirus 8 (HHV-8)",
+            "patterns": [
+                "Skin lesions",
+                "fever",
+                "night sweats",
+                "weight loss",
+                "swollen lymph nodes"
+            ],
+            "treatment_plan": [
+                "Antiviral therapy in immunocompromised patients, symptom management."
+            ]
+        },
+        {
+            "tag": "Phialemonium infection",
+            "patterns": [
+                "Skin lesions",
+                "keratitis",
+                "pneumonia",
+                "disseminated infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, surgical removal of infected tissue."
+            ]
+        },
+        {
+            "tag": "Chaetomium globosum infection",
+            "patterns": [
+                "Skin lesions",
+                "nail infections",
+                "respiratory infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, environmental controls to reduce exposure."
+            ]
+        },
+        {
+            "tag": "Sporobolomyces infection",
+            "patterns": [
+                "Skin lesions",
+                "respiratory infections",
+                "bloodstream infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, immune support."
+            ]
+        },
+        {
+            "tag": "Aureobasidium pullulans infection",
+            "patterns": [
+                "Skin lesions",
+                "respiratory infections",
+                "disseminated infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, wound care if present."
+            ]
+        },
+        {
+            "tag": "Fusariosis",
+            "patterns": [
+                "Skin lesions",
+                "sinus infection",
+                "fever",
+                "eye infections",
+                "disseminated infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, supportive care."
+            ]
+        },
+        {
+            "tag": "Fusarium moniliforme infection",
+            "patterns": [
+                "Skin lesions",
+                "sinusitis",
+                "keratitis",
+                "disseminated infections"
+            ],
+            "treatment_plan": [
+                "Antifungal medications, possibly surgical debridement."
+            ]
+        },
+        {
+            "tag": "Cladosporium cladosporioides infection",
+            "patterns": [
+                "Skin lesions",
+                "sinusitis",
+                "respiratory infections"
+            ],
+            "treatment_plan": [
+                "Antifungal therapy, environmental control to reduce exposure."
+            ]
+        },
+        {
+            "tag": "Phialophora infection",
+            "patterns": [
+                "Skin lesions",
+                "subcutaneous nodules",
+                "brain abscesses"
+            ],
+            "treatment_plan": [
+                "Antifungal therapy, wound care, possibly surgery."
+            ]
+        },
+        {
+            "tag": "Pleurostomophora infection",
+            "patterns": [
+                "Skin lesions",
+                "subcutaneous nodules",
+                "sinusitis"
+            ],
+            "treatment_plan": [
+                "Antifungal therapy, surgical intervention if necessary."
+            ]
+        },
+        {
+            "tag": "Sporotrichosis",
+            "patterns": [
+                "Skin ulcers",
+                "nodules",
+                "red bumps",
+                "lymph node swelling"
+            ],
+            "treatment_plan": [
+                "Itraconazole (antifungal), wound care, surgical debridement."
+            ]
+        },
+        {
+            "tag": "Strep Throat",
+            "patterns": [
+                "Sore throat",
+                "difficulty swallowing",
+                "red and swollen tonsils",
+                "fever",
+                "headache",
+                "rash"
+            ],
+            "treatment_plan": [
+                "Antibiotics (penicillin, amoxicillin), rest, pain relievers."
+            ]
+        },
+        {
+            "tag": "Diphtheria",
+            "patterns": [
+                "Sore throat",
+                "fever",
+                "swollen glands",
+                "weakness",
+                "thick gray membrane covering throat and tonsils"
+            ],
+            "treatment_plan": [
+                "Diphtheria antitoxin, antibiotics, isolation to prevent spread."
+            ]
+        },
+        {
+            "tag": "Basidiobolomycosis",
+            "patterns": [
+                "Subcutaneous nodules",
+                "gastrointestinal symptoms",
+                "fever"
+            ],
+            "treatment_plan": [
+                "Antifungal therapy, surgery in severe cases."
+            ]
+        },
+        {
+            "tag": "Entomophthoramycosis",
+            "patterns": [
+                "Subcutaneous nodules",
+                "nasal congestion",
+                "facial swelling"
+            ],
+            "treatment_plan": [
+                "Antifungal therapy, surgery if needed."
+            ]
+        },
+        {
+            "tag": "Meningococcal disease",
+            "patterns": [
+                "Sudden fever",
+                "headache",
+                "stiff neck",
+                "nausea",
+                "vomiting",
+                "sensitivity to light",
+                "confusion",
+                "rash"
+            ],
+            "treatment_plan": [
+                "Antibiotics, supportive care, vaccination for prevention."
+            ]
+        },
+        {
+            "tag": "Herpangina",
+            "patterns": [
+                "Sudden fever",
+                "sore throat",
+                "headache",
+                "painful blisters on tonsils and roof of mouth"
+            ],
+            "treatment_plan": [
+                "Supportive care, pain relievers, hydration."
+            ]
+        },
+        {
+            "tag": "Stroke",
+            "patterns": [
+                "Sudden numbness",
+                "confusion",
+                "trouble speaking"
+            ],
+            "treatment_plan": [
+                "Clot-dissolving medication (if ischemic), rehabilitation, supportive care."
+            ]
+        },
+        {
+            "tag": "Madura foot",
+            "patterns": [
+                "Swelling",
+                "deformity",
+                "discharging sinuses",
+                "pain"
+            ],
+            "treatment_plan": [
+                "Antifungal or antibiotic therapy (depending on type), surgical debridement, amputation in severe cases."
+            ]
+        },
+        {
+            "tag": "Diabetes (Type 2)",
+            "patterns": [
+                "Frequent urination",
+                "excessive thirst",
+                "fatigue",
+                "blurred vision."
+            ],
+            "treatment_plan": [
+                "Lifestyle changes (diet, exercise), medications like metformin, and insulin therapy in advanced cases."
+            ]
+        },
+        {
+            "tag": "Anemia (Iron-deficiency)",
+            "patterns": [
+                "Fatigue",
+                "pale skin",
+                "weakness",
+                "dizziness",
+                "shortness of breath."
+            ],
+            "treatment_plan": [
+                "Iron supplements, dietary changes (increase iron-rich foods), possible blood transfusion in severe cases."
+            ]
+        },
+        {
+            "tag": "Rheumatoid Arthritis",
+            "patterns": [
+                "Joint pain",
+                "stiffness",
+                "swelling",
+                "fatigue",
+                "loss of joint function"
+            ],
+            "treatment_plan": [
+                "Anti-inflammatory drugs, DMARDs (disease-modifying antirheumatic drugs), physical therapy, joint replacement in severe cases."
+            ]
+        }
+    ]
+}
