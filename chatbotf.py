@@ -6,22 +6,23 @@ from typing import Optional
 # Constants
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "a2274e04-730a-4a04-ad69-29fb92f0f9a9"
-FLOW_ID = "bce533cd-ac79-4ecc-b243-86547bde2092"
-APPLICATION_TOKEN = "AstraCS:REzxXrDdvZXwAnLivsFzbdgy:93c5b50edc504810fb0e45cf45680eb6833c3377da3b0e0d68e9b946bdff1198"
+FLOW_ID = "7a6c3afb-bbab-440d-9295-aba3c9d09150"
+APPLICATION_TOKEN = "AstraCS:BtrfKUxXLGrsNyyavYMPjDiz:e80548819da8e9fb2b766a1a95e0520f350b26423020ff8d1c49b47c64f10fe7"
 ENDPOINT = "LeinadFlow-1"
+
 TWEAKS = {
-    "ChatInput-meGB1": {},
-    "ChatOutput-zJKHi": {},
-    "Prompt-Wcq1i": {},
-    "Chroma-Q4Vba": {},
-    "File-9DV2I": {},
-    "SplitText-Qc7fc": {},
-    "Chroma-utOIt": {},
-    "ParseData-vYylH": {},
-    "Memory-skdzk": {},
-    "TextInput-XkvDW": {},
-    "MistalAIEmbeddings-nL1BI": {},
-    "GoogleGenerativeAIModel-aVfFj": {}
+  "ChatInput-6GHDU": {},
+  "ChatOutput-4D7QB": {},
+  "Prompt-1Fok7": {},
+  "File-e5qwb": {},
+  "SplitText-0B9NJ": {},
+  "Chroma-dOmCo": {},
+  "ParseData-GuEEQ": {},
+  "Memory-aCsXk": {},
+  "TextInput-eczLx": {},
+  "MistalAIEmbeddings-KEi53": {},
+  "Chroma-gXf1F": {},
+  "GroqModel-HCKnM": {}
 }
 
 st.set_page_config(page_title="Infectous disease ChatBot")
