@@ -57,7 +57,7 @@ def run_flow(message: str,
     return response.json()
 
 # Streamlit UI Initialization
-st.title("Multi-Lingual Healthcare Chatbot for Infectious Disease Diagnosis🤖")
+st.title("Healthcare Chatbot for Disease Diagnosis🤖")
 st.write('---')
 
 system_prompt = "You’re a helpful assistant who can explain concepts."
