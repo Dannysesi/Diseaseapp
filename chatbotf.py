@@ -27,34 +27,81 @@ TWEAKS = {
 
 st.set_page_config(page_title="Infectous disease ChatBot")
 
+# def run_flow(message: str,
+#   endpoint: str,
+#   output_type: str = "chat",
+#   input_type: str = "chat",
+#   tweaks: Optional[dict] = None,
+#   application_token: Optional[str] = None) -> dict:
+#     """
+#     Run a flow with a given message and optional tweaks.
+
+#     :param message: The message to send to the flow
+#     :param endpoint: The ID or the endpoint name of the flow
+#     :param tweaks: Optional tweaks to customize the flow
+#     :return: The JSON response from the flow
+#     """
+#     api_url = f"{BASE_API_URL}/lf/{LANGFLOW_ID}/api/v1/run/{endpoint}"
+
+#     payload = {
+#         "input_value": message,
+#         "output_type": output_type,
+#         "input_type": input_type,
+#     }
+#     headers = None
+#     if tweaks:
+#         payload["tweaks"] = tweaks
+#     if application_token:
+#         headers = {"Authorization": "Bearer " + application_token, "Content-Type": "application/json"}
+#     response = requests.post(api_url, json=payload, headers=headers)
+#     return response.json()
+
+import requests
+
 def run_flow(message: str,
-  endpoint: str,
-  output_type: str = "chat",
-  input_type: str = "chat",
-  tweaks: Optional[dict] = None,
-  application_token: Optional[str] = None) -> dict:
+             endpoint: str,
+             output_type: str = "chat",
+             input_type: str = "chat",
+             tweaks: Optional[dict] = None,
+             application_token: Optional[str] = None) -> dict:
     """
     Run a flow with a given message and optional tweaks.
 
     :param message: The message to send to the flow
     :param endpoint: The ID or the endpoint name of the flow
     :param tweaks: Optional tweaks to customize the flow
-    :return: The JSON response from the flow
+    :return: The JSON response from the flow, or an error message if it fails.
     """
     api_url = f"{BASE_API_URL}/lf/{LANGFLOW_ID}/api/v1/run/{endpoint}"
-
+    
     payload = {
         "input_value": message,
         "output_type": output_type,
         "input_type": input_type,
     }
-    headers = None
+    headers = {"Content-Type": "application/json"}
     if tweaks:
         payload["tweaks"] = tweaks
     if application_token:
-        headers = {"Authorization": "Bearer " + application_token, "Content-Type": "application/json"}
-    response = requests.post(api_url, json=payload, headers=headers)
-    return response.json()
+        headers["Authorization"] = "Bearer " + application_token
+
+    try:
+        response = requests.post(api_url, json=payload, headers=headers)
+        # Check if response is successful
+        if response.status_code == 200:
+            return response.json()  # Try to return JSON response
+        else:
+            print(f"Error: Received status code {response.status_code}")
+            print(f"Response text: {response.text}")
+            return {"error": "Non-200 response from server", "details": response.text}
+    except requests.exceptions.JSONDecodeError as e:
+        print("JSON Decode Error:", e)
+        print("Response text:", response.text)
+        return {"error": "JSONDecodeError", "details": response.text}
+    except requests.exceptions.RequestException as e:
+        print("Request Error:", e)
+        return {"error": "RequestException", "details": str(e)}
+
 
 # Streamlit UI Initialization
 st.title("Healthcare Chatbot for Disease Diagnosis🤖")
